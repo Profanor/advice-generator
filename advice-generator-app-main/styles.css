@@ -4,7 +4,7 @@
     }
 }
 body {
-    background-color: white
+    background-color: hsl(217, 19%, 24%);
 }
 @font-face {
     font-family: Manrope;
@@ -22,7 +22,7 @@ body {
     height: 300px;
     background-color: hsl(216, 18%, 30%);
     border-radius: 15px;
-    margin: 0 auto;
+    margin: 100px auto;
     padding: 20px;
 }
 h1 {
@@ -59,7 +59,7 @@ p {
 }
 .icon {
     vertical-align: middle;
-    margin: -6px auto;
+    margin: -5px auto;
 }
 .btn {
     display: none;
